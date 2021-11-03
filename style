@@ -1,0 +1,7 @@
+.menu{
+	width: 100%;
+	height: 600px;
+    background-image: url(nen2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
